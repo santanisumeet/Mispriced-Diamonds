@@ -1,5 +1,5 @@
 # Mispriced-Diamonds
-The viz. showcases the price comparion of diamonds based on carats
+The viz. showcases the price comparison of diamonds based on carats
 
 
 
